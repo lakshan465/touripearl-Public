@@ -1,0 +1,28 @@
+{
+    "guides": [
+      { "id": 1, "name": "Kumara Silva", "specialty": "Cultural Heritage", "rating": 4.9, "tours": 150 },
+      { "id": 2, "name": "Priya Fernando", "specialty": "Adventure Tours", "rating": 4.8, "tours": 120 },
+      { "id": 3, "name": "Ahmed Khan", "specialty": "Wildlife Safari", "rating": 4.9, "tours": 200 }
+    ],
+    "services": [
+      { "icon": "Map", "title": "Customizable Tours", "description": "Tailor your journey to your interests" },
+      { "icon": "Clock", "title": "24/7 Availability", "description": "Support whenever you need it" },
+      { "icon": "Users", "title": "Expert Guides", "description": "Experienced local professionals" }
+    ],
+    "steps": [
+      { "icon": "Search", "title": "Find Your Guide", "description": "Browse profiles and reviews" },
+      { "icon": "Calendar", "title": "Plan Your Trip", "description": "Choose dates and customize your tour" },
+      { "icon": "Heart", "title": "Enjoy Sri Lanka", "description": "Create unforgettable memories" }
+    ],
+    "testimonials":[
+        {"name": "Sarah Johnson","location": "Cultural Triangle Tour","text": "An incredible experience exploring ancient temples with our knowledgeable guide.","rating": 5},
+        {"name": "Michael Chen","location": "Beach Hopping Tour","text": "Perfect blend of relaxation and adventure along the southern coast.","rating": 5}
+    ]
+  ,
+  "events": [
+    { "id": 1, "name": "Kandy Esala Perahera", "date": "2023-08-10", "location": "Kandy", "description": "A grand procession with traditional dancers, drummers, and elephants." },
+    { "id": 2, "name": "Galle Literary Festival", "date": "2023-01-18", "location": "Galle", "description": "A celebration of literature with authors, poets, and workshops." },
+    { "id": 3, "name": "Colombo Fashion Week", "date": "2023-03-15", "location": "Colombo", "description": "Showcasing the latest trends in Sri Lankan fashion." }
+  ]
+  }
+  
