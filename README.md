@@ -1,1 +1,1 @@
-# touripearl-Public
+This is a newly created repository used to showcase the code implementation of our 3rd-year group project. The original repository, touripearl, is currently private as it is still in the development phase and contains sensitive data
